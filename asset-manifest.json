@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c43dcc2.css",
+    "main.js": "/static/js/main.f4340e4a.js",
+    "static/js/787.9925f32c.chunk.js": "/static/js/787.9925f32c.chunk.js",
+    "static/media/bear-dream.png": "/static/media/bear-dream.ca4721a6b993bf7ab4b7.png",
+    "static/media/background.jpg": "/static/media/background.dc1ae0c37c959317cf7e.jpg",
+    "static/media/roadmap.png": "/static/media/roadmap.c9c98e3744f925970212.png",
+    "static/media/buy-tax.png": "/static/media/buy-tax.bc6788ec068c387a50f5.png",
+    "static/media/sell-tax.png": "/static/media/sell-tax.ae0f565a0f8c6839ea12.png",
+    "static/media/mahmud.jpg": "/static/media/mahmud.3d0b8107e7ade42b2d32.jpg",
+    "static/media/poocoin-poocoin-logo.png": "/static/media/poocoin-poocoin-logo.889c27f26a7f9788bd36.png",
+    "static/media/pancakeswap-cake-logo.png": "/static/media/pancakeswap-cake-logo.e1d4dec34dc4d1c73553.png",
+    "static/media/bear-nft.jpg": "/static/media/bear-nft.7b7e0de4d686d9dc7841.jpg",
+    "static/media/main-logo.png": "/static/media/main-logo.b100a49146809a838650.png",
+    "static/media/nice-houle.jpg": "/static/media/nice-houle.95000e40c11c7d803b31.jpg",
+    "static/media/CryptoCraversLogoWhite.png": "/static/media/CryptoCraversLogoWhite.c5ff8be2353b7d37e1bd.png",
+    "static/media/Telegram_logo.svg.png": "/static/media/Telegram_logo.svg.866205aae47847c0a01e.png",
+    "static/media/vadim.jpg": "/static/media/vadim.b9eecf7c84aa34e1b6d7.jpg",
+    "static/media/jp.jpg": "/static/media/jp.4e2c0e1f2503222e61d3.jpg",
+    "index.html": "/index.html",
+    "main.7c43dcc2.css.map": "/static/css/main.7c43dcc2.css.map",
+    "main.f4340e4a.js.map": "/static/js/main.f4340e4a.js.map",
+    "787.9925f32c.chunk.js.map": "/static/js/787.9925f32c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c43dcc2.css",
+    "static/js/main.f4340e4a.js"
+  ]
+}
